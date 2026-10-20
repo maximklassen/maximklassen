@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hallo, ich bin Maxim 👋
 
-<!--
-**maximklassen/maximklassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webentwickler aus Walsrode (Niedersachsen) mit PHP-Erfahrung seit 2015 und über 30 realisierten Webprojekten, von Firmenwebsites bis zu Online-Shops. Ich suche eine Festanstellung als Webentwickler (PHP, gern mit Laravel).
 
-Here are some ideas to get you started:
+## Woran ich arbeite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ELF CMS](https://github.com/elfcms/elfcms)** – mein modulares CMS als Laravel-Paket (Open Source, per Composer installierbar)
+- Weiterbildung Data Science & KI bei intoCODE / Hochschule Hannover
+
+## Technik
+
+PHP · Laravel · Livewire · JavaScript · MySQL / PostgreSQL · HTML/CSS · Git
+
+## Mehr von mir
+
+- Portfolio: https://cv.maxklassen.de
+- ELF CMS: https://elfcms.github.io
